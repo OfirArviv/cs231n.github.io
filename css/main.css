@@ -1,3 +1,25 @@
+/* Custom Addons */
+mark {
+    background-color: yellow;
+    color: black;
+}
+
+todo {
+    background-color: #ef64d6;
+    color: black;
+}
+
+question {
+    background-color: #ef6e6e;
+    color: black;
+}
+
+note {
+    background-color: yellow;
+    color: black;
+}
+
+
 /* Base */
 /* ----------------------------------------------------------*/
 
